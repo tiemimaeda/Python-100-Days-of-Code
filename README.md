@@ -1,6 +1,6 @@
 # 🚀 100 Days of Code - Python Bootcamp (Days 1 to 15)
 
-This repository contains my solutions and exercises for **Days 1 to 15** of the [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/?couponCode=KEEPLEARNINGBR) course by Dr. Angela Yu on Udemy.
+This repository contains my solutions and exercises for **Days 1 to 15** of the [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=KEEPLEARNINGBR) course by Dr. Angela Yu on Udemy.
 
 ## 🎯 Purpose
 
