@@ -10,9 +10,9 @@ The goal of this repository is to document my progress during the first 15 days 
 
 - ✅ **Day 01:** Printing to the console, working with strings, debugging
 - ✅ **Day 02:** Variables, user input, string manipulation
-- ✅ **Day 03:** Operators, conditional statements, boolean logic
-- ✅ **Day 04:** Control flow and simple mini-projects
-- **Day 05:** Loops (`for`, `while`), lists and iteration
+- ✅ **Day 03:** Logical Operators, Control Flow
+- ✅ **Day 04:** Randomisation and Lists
+- ✅ **Day 05:** Loops and iteration
 - **Day 06:** Functions, scope, parameters
 - **Day 07:** Project - Hangman game
 - **Day 08:** Functions with optional parameters and keyword arguments
