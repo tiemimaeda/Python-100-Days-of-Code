@@ -13,7 +13,7 @@ The goal of this repository is to document my progress during the first 15 days 
 - ✅ **Day 03:** Logical Operators, Control Flow
 - ✅ **Day 04:** Randomisation and Lists
 - ✅ **Day 05:** Loops and iteration
-- **Day 06:** Functions, scope, parameters
+- ✅ **Day 06:** Functions, Indentation, While Loops
 - **Day 07:** Project - Hangman game
 - **Day 08:** Functions with optional parameters and keyword arguments
 - **Day 09:** Dictionaries, nesting, data structures
