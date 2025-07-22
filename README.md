@@ -15,7 +15,7 @@ The goal of this repository is to document my progress during the first 15 days 
 - ✅ **Day 05:** Loops and iteration
 - ✅ **Day 06:** Functions, Indentation, While Loops
 - ✅ **Day 07:** Project - Hangman game
-- **Day 08:** Functions with optional parameters and keyword arguments
+- ✅ **Day 08:** Functions with optional parameters and keyword arguments
 - **Day 09:** Dictionaries, nesting, data structures
 - **Day 10:** Project - Calculator using functions
 - **Day 11:** Object-Oriented Programming (OOP) introduction
