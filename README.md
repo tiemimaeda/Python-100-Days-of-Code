@@ -18,7 +18,7 @@ The goal of this repository is to document my progress during the first 15 days 
 - ✅ **Day 08:** Functions with optional parameters and keyword arguments
 - ✅ **Day 09:** Dictionaries, nesting, data structures
 - ✅ **Day 10:** Project - Calculator using functions, loops and dictionaries
-- **Day 11:** Object-Oriented Programming (OOP) introduction
+- ✅ **Day 11:** Project - Blackjack
 - **Day 12:** Classes and methods in Python
 - **Day 13:** Project - Turtle Race game
 - **Day 14:** Using the `turtle` module for graphics
