@@ -20,6 +20,6 @@ The goal of this repository is to document my progress during the first 15 days 
 - ✅ **Day 10:** Project - Calculator using functions, loops and dictionaries
 - ✅ **Day 11:** Project - Blackjack
 - ✅ **Day 12:** Namespaces
-- **Day 13:** Project - Turtle Race game
+- ✅ **Day 13:** Debbuging
 - **Day 14:** Using the `turtle` module for graphics
 - **Day 15:** Handling user events with Turtle graphics
