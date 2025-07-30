@@ -22,4 +22,4 @@ The goal of this repository is to document my progress during the first 15 days 
 - ✅ **Day 12:** Namespaces
 - ✅ **Day 13:** Debbuging
 - ✅ **Day 14:** Project - Higher Lower Game
-- **Day 15:** 
+- ✅ **Day 15:** Project - The Coffee Machine
